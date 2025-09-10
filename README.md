@@ -14,3 +14,4 @@ The page will be modified and evolve as we progress with the lectures.
 7) ConfidenceLimits
 8) HypothesisTest
 9) MonteCarlo
+10) MachineLearning
