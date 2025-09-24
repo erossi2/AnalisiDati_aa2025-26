@@ -13,4 +13,4 @@ Some notes:
 4) The ultimate goal is to have a jupyter notebook where the following command works:
 
     import ROOT
-5) Moreover you will find very basic exercise to test your setup
+5) Moreover, you will find very basic exercise to test your setup
