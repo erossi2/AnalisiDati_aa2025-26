@@ -1,1 +1,1 @@
-Units on Likelihood and Chi2 tests
+In this units you can find exercise on Tests
