@@ -38,5 +38,5 @@ pip install jupyterlab-myst
 
 If you prefer pip (for example inside a venv virtual environment):
 ```bash
-pip install uproot numpy scipy matplotlib jupyter-myst
+pip install uproot numpy scipy matplotlib jupyterlab-myst
 ```
